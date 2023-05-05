@@ -37,7 +37,7 @@ La soluzione consiste in due cicli for annidati: il primo ciclo for scorre la st
                 mattoniUsed += i * i;
             }
             return mattoni - mattoniUsed;
-        }
-    }
-}
+          }
+       }
+     }
 
