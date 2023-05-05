@@ -1,5 +1,4 @@
-## Piramide
-**  
+## Piramide  
 Il compito consiste nello scrivere un programma che calcoli l'altezza massima di una piramide(in piani) e il numero di mattoni rimanenti, dati un certo numero di cubi:
 
  - I piani sono quadrati
@@ -10,7 +9,7 @@ Il compito consiste nello scrivere un programma che calcoli l'altezza massima di
 Il programma deve implementare i seguenti metodi:
 
  - int Piani(int mattoni): che torna il numero di piani della piramide che possono essere costruiti con il numero di cubi
- - int Rimanenti(int mattoni): che torna il numero di cubi rimanenti**
+ - int Rimanenti(int mattoni): che torna il numero di cubi rimanenti
 
 ## Soluzione
 La soluzione del problema consiste nell'implementare due metodi in un programma: "Piani" e "Rimanenti".
